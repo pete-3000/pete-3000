@@ -1,5 +1,4 @@
-- 🤖 @pete-3000
-- 📞 514 965 2771
+🤖 @pete-3000
 
 <!---
 pete-3000/pete-3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
